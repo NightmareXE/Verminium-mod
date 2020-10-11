@@ -1,0 +1,3 @@
+displayName = Verminium
+author = This can changed later lol
+version = 0.1
