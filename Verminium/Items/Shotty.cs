@@ -5,9 +5,9 @@ using Microsoft.Xna.Framework;
 
 namespace Verminium.Items
 {
-    public class Shotty : ModItem
+    public class AngelusShotgun : ModItem
     {
-        public override string Texture => "Terraria/Item_" + ItemID.TacticalShotgun;
+        //public override string Texture => "Terraria/Item_" + ItemID.TacticalShotgun;
         public override void SetDefaults()
         {
             item.width = item.height = 32;
